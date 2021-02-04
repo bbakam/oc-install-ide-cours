@@ -9,3 +9,5 @@ public class BasicExample {
 		}
 	}
 }
+
+// c'est mon second feature'
